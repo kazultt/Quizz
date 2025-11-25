@@ -61,6 +61,7 @@ void QuizSession::run() {
 
 
     view.displayResult(candidate, startTime, elapsedTime, correctCount, data.getNumQuestions());
+
 }
 
 
